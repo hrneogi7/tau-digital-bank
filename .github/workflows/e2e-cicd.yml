@@ -1,4 +1,4 @@
-name: e2e pipeline
+name: e2e pipeline practice
 run-name: Build, Deploy, Test - from user @${{ github.actor }}
 
 on: 
